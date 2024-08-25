@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Langchain<br>❤️ I like Competitive Programming!<br>🎯 Goals: Build something new<br>🎲 Fun fact: I like to be quiet!</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Langchain<br>❤️ I like Competitive Programming!<br>🎯 Goals: Build something new<br>🎲 Fun fact: I like to be quiet!</p>
 
 ###
 
