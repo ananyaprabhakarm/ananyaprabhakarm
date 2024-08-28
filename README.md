@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ananya and I'm a ML Developer, from Ghaziabad.</p>
+<p align="left">My name is Ananya and I'm a passionate Developer, from India</p>
 
 ###
 
