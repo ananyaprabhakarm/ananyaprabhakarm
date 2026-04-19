@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
- 🌱 I’m currently learning Backend and AI<br><br>    📫 How to reach me ananyaprabhakarm@gmail.com<br><br>    ⚡ Fun fact :- 🏋🏻 and 🎵 are the reasons to live.<br>
+ 🌱 I’m currently working on Backend Automation<br><br>    📫 How to reach me ananyaprabhakarm@gmail.com<br><br>    ⚡ Fun fact :- 🏋🏻 and 🎵 are the reasons to live.<br>
 
 
 ## 🌐 Socials:
